@@ -1,1 +1,1 @@
-# TaskMate
+# TaskMate (Task manager web application)
